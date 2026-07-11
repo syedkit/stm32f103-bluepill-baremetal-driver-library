@@ -4,6 +4,9 @@ A lightweight, open-source bare-metal driver library for the STM32F103 (Blue Pil
 
 This project aims to provide clean, educational, and reusable peripheral drivers while helping beginners understand STM32 firmware development from the register level.
 
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
 ---
 
 ## Features
