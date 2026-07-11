@@ -1,0 +1,176 @@
+===============================================================================
+                SYED SOURCE-AVAILABLE NON-COMMERCIAL LICENSE
+                               (SSANCL) v1.0
+===============================================================================
+
+Copyright (c) 2026
+S.I. SYED ARSHAD
+
+This project is provided to the community for learning, research,
+education, collaboration, and non-commercial development.
+
+The goal of this project is to remain permanently FREE for everyone.
+
+===============================================================================
+1. PERMISSIONS
+===============================================================================
+
+You are permitted to:
+
+• Use this project.
+• Study this project.
+• Learn from this project.
+• Fork this project.
+• Modify this project.
+• Improve this project.
+• Add new features and drivers.
+• Fix bugs.
+• Improve documentation.
+• Share this project.
+• Contribute to this project.
+• Redistribute this project.
+
+All of the above are allowed only under the conditions described in this
+license.
+
+===============================================================================
+2. ORIGINAL AUTHOR ATTRIBUTION
+===============================================================================
+
+Every copy, fork, modified version, redistribution, or derivative work must
+clearly acknowledge the original author.
+
+Original Author:
+
+    S.I. SYED ARSHAD
+
+Original Repository:
+
+    https://github.com/<your-username>/<repository-name>
+
+The original author's name and repository link must not be removed,
+hidden, or replaced.
+
+===============================================================================
+3. CONTRIBUTOR ATTRIBUTION
+===============================================================================
+
+Every contributor shall retain credit for their own work.
+
+If a contributor implements:
+
+• Drivers
+• Bug fixes
+• Documentation
+• Examples
+• Features
+• Improvements
+
+their name shall remain credited for those contributions.
+
+No individual may remove, modify, or hide previous contributor credits.
+
+Project history and contributor information should be preserved whenever
+reasonably possible.
+
+===============================================================================
+4. MODIFICATIONS
+===============================================================================
+
+Anyone may modify this project.
+
+Examples include:
+
+• New peripheral drivers
+• Documentation improvements
+• Code refactoring
+• Performance optimizations
+• Bug fixes
+• Additional examples
+• New features
+
+Modified versions must:
+
+• Include this license.
+• Preserve author attribution.
+• Preserve contributor attribution.
+• Clearly indicate that modifications have been made.
+
+===============================================================================
+5. NON-COMMERCIAL USE
+===============================================================================
+
+This project shall always remain FREE for everyone.
+
+Commercial use of this project, in whole or in part, is STRICTLY PROHIBITED.
+
+The following actions are NOT permitted:
+
+• Selling the original project.
+• Selling modified versions.
+• Selling source code.
+• Selling compiled binaries.
+• Selling firmware based on this project.
+• Selling educational packages primarily containing this project.
+• Selling training material whose primary value comes from this project.
+• Including this project in commercial software.
+• Including this project in commercial hardware products.
+• Charging money for copies or downloads of this project.
+• Charging money for access to this project.
+
+No person or organization may directly or indirectly profit from the
+distribution of this project.
+
+Commercial use requires prior written permission from the copyright owner.
+
+===============================================================================
+6. FREE COMMUNITY DEVELOPMENT
+===============================================================================
+
+Community collaboration is encouraged.
+
+Developers are welcome to:
+
+• Submit pull requests.
+• Open issues.
+• Review code.
+• Suggest improvements.
+• Add peripheral drivers.
+• Improve documentation.
+• Help other users.
+
+The project is intended to grow through community collaboration while
+remaining permanently free.
+
+===============================================================================
+7. LICENSE PRESERVATION
+===============================================================================
+
+This license file must remain included in every copy,
+fork, redistribution, and modified version of the project.
+
+It must not be removed or replaced.
+
+===============================================================================
+8. DISCLAIMER
+===============================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+THE AUTHOR AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DAMAGES,
+LOSSES, OR CLAIMS ARISING FROM THE USE OF THIS SOFTWARE.
+
+Users are responsible for verifying the correctness and suitability of the
+software for their own applications.
+
+===============================================================================
+9. ACCEPTANCE
+===============================================================================
+
+By using, modifying, copying, or distributing this project, you agree to
+all terms of this license.
+
+===============================================================================
+                           END OF LICENSE
+===============================================================================
