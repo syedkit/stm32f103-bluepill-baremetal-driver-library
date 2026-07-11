@@ -83,6 +83,8 @@ st-flash write Build/led_blink.bin 0x08000000
 | TIM | 🚧 Planned |
 | ADC | 🚧 Planned |
 
+Apart from this additional drivers also planned
+
 ---
 
 ## Project Goals
